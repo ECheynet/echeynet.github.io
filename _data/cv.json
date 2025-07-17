@@ -1,152 +1,225 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Etienne Cheynet",
+    "email": "etienne.cheynet@uib.no",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://sites.google.com/view/etiennecheynet",
+    "summary": "Associate Professor at the University of Bergen specialising in wind engineering, offshore wind energy, and atmospheric turbulence.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "postalCode": "5007",
+      "city": "Bergen",
+      "countryCode": "NO",
+      "region": "Vestland"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=dpbpYlsAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "0000-0002-4854-1469",
+        "url": "https://orcid.org/0000-0002-4854-1469"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Associate Professor",
+      "company": "University of Bergen",
+      "startDate": "2022",
+      "summary": "Leads innovation in wind engineering and energy, supervises students, and redesigns courses ENERGI230/321/322."
+    },
+    {
+      "position": "Post‑doctoral Researcher",
+      "company": "University of Bergen",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "position": "Post‑doctoral Researcher",
+      "company": "University of Stavanger",
+      "startDate": "2016",
+      "endDate": "2019"
+    },
+    {
+      "position": "PhD Research Fellow",
+      "company": "University of Stavanger",
+      "startDate": "2013",
+      "endDate": "2016"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Stavanger",
+      "area": "PhD in Wind Engineering",
+      "endDate": "2016"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "ISAE‑ENSMA",
+      "area": "MSc in Aeromechanics",
+      "endDate": "2012"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "Norwegian",
+      "fluency": "B2‑C1"
+    },
+    {
+      "language": "German",
+      "fluency": "A2"
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Jasna B. Jakobsen",
+      "reference": "University of Stavanger – jasna.b.jakobsen@uis.no"
+    },
+    {
+      "name": "Prof. Jónas Snæbjörnsson",
+      "reference": "University of Reykjavik – jonasthor@ru.is"
+    },
+    {
+      "name": "Prof. Joachim Reuder",
+      "reference": "University of Bergen – Joachim.Reuder@uib.no"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Enhancing Probabilistic Wind Speed Forecasting by Integrating Self-Adaptive Bayesian Wavelet Denoising with Deep Gaussian Process Regression Under Uncertainties",
+      "publisher": "Accepted in Renewable Energy",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1016/j.renene.2025.XX",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "SAMURAI-S: Sonic Anemometer on a MUlti-Rotor drone for Atmospheric turbulence Investigation in a Sling load configuration",
+      "publisher": "Atmospheric Measurement Techniques",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Surface pressure measurement system for investigating bridge aerodynamics",
+      "publisher": "Measurement",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Tall wind profile validation of ERA5, NORA3, and NEWA datasets using lidar observations",
+      "publisher": "Wind Energy Science",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Wind turbulence around a bridge deck in full scale",
+      "publisher": "Journal of Fluids and Structures",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Observation of Kelvin--Helmholtz billows in the marine atmospheric boundary layer by a ship-borne Doppler wind lidar",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Metocean conditions at two Norwegian sites for development of offshore wind farms",
+      "publisher": "Renewable Energy",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Gone with the wind? Wind farm-induced wakes and regulatory gaps",
+      "publisher": "Marine Policy",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Experimental Characterization of Propeller-Induced Flow (PIF) below a Multi-Rotor UAV",
+      "publisher": "Atmosphere",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Flow Structure around a Multicopter Drone: A Computational Fluid Dynamics Analysis for Sensor Placement Considerations",
+      "publisher": "Drones",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Unfrozen Skewed Turbulence for Wind Loading on Structures",
+      "publisher": "Applied Sciences",
+      "releaseDate": "2022",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Turbulence in a coastal environment: the case of Vindeby",
+      "publisher": "Wind Energy Science",
+      "releaseDate": "2022",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Improved long-span bridge modeling using data-driven identification of vehicle-induced vibrations",
+      "publisher": "Structural Control and Health Monitoring",
+      "releaseDate": "2020",
+      "website": "https://doi.org/10.1002/stc.2574",
+      "summary": ""
+    },
+    {
+      "name": "The {COTUR",
+      "publisher": "Atmospheric Measurement Techniques",
+      "releaseDate": "2021",
+      "website": "https://doi.org/10.5194/amt-14-6137-2021",
+      "summary": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "ENERGI230 Energy and Environment",
+      "institution": "University of Bergen",
+      "date": "2023‑present",
+      "role": "Course Responsible"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "ENERGI321 Offshore Wind Energy – Part 1",
+      "institution": "University of Bergen",
+      "date": "2023‑present",
+      "role": "Course Responsible"
+    },
+    {
+      "course": "SDG310 Interdisciplinary Approaches to Sustainability",
+      "institution": "University of Bergen",
+      "date": "2022‑present",
+      "role": "Lecturer"
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "COTUR II Lidar Campaign",
+      "category": "Research",
+      "description": "Full‑scale lidar turbulence measurements in Norwegian fjords.",
+      "url": "https://windengineeringuis.github.io/"
     }
   ]
 }
