@@ -193,19 +193,29 @@ I have **67 verified peer reviews** on Web of Science and have reviewed for *Sci
 * **2023** Contributor, government hearing response on offshore-wind SEA  
 
 ## Invited Talks & Seminars
-* **2025** Guest lecture, Dalian UT: “ERA5 for wind resource assessment”  
-* **2024** Guest lecture, Dalian UT: “Offshore wind in the North Sea”  
-* **2024** Invited workshop: Scientific writing with LaTeX (UiB)  
-* **2023** EERA JP Wind webinar: “Gone with the wind? Wake losses & regulation”  
-* **2022** Equinor workshop: “Non-neutral turbulence coherence (COTUR)”  
-* **2021** RAVE Workshop: “Wind-induced response of a 5 MW turbine”  
-* *(…full list continues as in LaTeX)*  
+
+- **2025**: Guest lecture — *"ERA5 for wind resource assessment: an introduction"*, Dalian University of Technology, China (as part of the Visiting Professor Talent Program)  
+- **2024**: Guest lecture — *"Offshore wind in the North Sea: challenges and potentials for Norway"*, Dalian University of Technology, China  
+- **2024**: Invited workshop — *Scientific writing with LaTeX*, organized by Lumen (Fagutvalg for Energi), University of Bergen  
+- **2023**: Invited webinar — *"Gone with the wind? Wind farm-induced wakes and regulatory gaps"*, EERA JP Wind webinar series (with Ignacio Herrera Anchustegui)  
+- **2022**: Invited talk at Equinor workshop — *"Non-neutral Coherence of turbulence during the COTUR campaign"*, Bergen  
+- **2022**: Invited talk — *"Metocean conditions at two Norwegian sites for development of offshore wind farms"*, Havvindkonferansen: Science Meets Industry, Bergen  
+- **2021**: Invited webinar — *"Wind-induced response of a 5 MW offshore wind turbine"*, Research at Alpha Ventus (RAVE) Workshop  
+- **2021**: Invited talk — *"Structural monitoring of offshore wind turbines for predictive maintenance"*, Offshore Technology Days (OTD), Stavanger  
+- **2020**: Invited webinar — *"New Challenges in Wind-Structure interaction"*, IN-VENTO 2020 Web-Event, Italian Association for Wind Engineering  
+- **2020**: Invited webinar — *"Offshore wind potential in Norway and the North Sea"*, VIII November Conference on Brazilian–Norwegian Energy Research  
+- **2019**: Invited seminar — *"Turbulence analysis from sonic anemometers on the Bjørnafjord masts"*, Norwegian Public Roads Administration, Stavanger  
+
 
 ## Media Presence & Outreach
-* **2025** Co-author, op-ed in *Teknisk Ukeblad*: *Havvind på pause…*  
-* **2023** NRK expert commentary on wind-energy conflict  
-* **2023** Coverage in *BBC Future*, *Guardian*, *Recharge News* on wake-loss paper  
-* *(…additional 2014–2020 articles as in LaTeX)*  
+
+- **2025**: Co-author of an op-ed in *Teknisk Ukeblad*: [Havvind på pause, kabler til utlandet og håpet om billig strøm](https://www.tu.no/artikler/havvind-pa-pause-kabler-til-utlandet-og-hapet-om-billig-strom/556201)  
+- **2023**: Expert commentary in NRK article on wind energy conflicts: [Frykter nytt vindkraftverk vil «stjele» vinden](https://www.nrk.no/rogaland/norsk-vind-frykter-statkraft-planer-med-40-vindturbiner-pa-moifjellet-kan-redusere-deres-strom-1.16673666)  
+- **2023**: Featured in international coverage of offshore wind wake-loss paper:  
+  [BBC Future](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft),  
+  [The Guardian](https://www.theguardian.com/news/2023/nov/10/talks-needed-over-density-of-offshore-windfarms-in-europe-warn-experts),  
+  [Recharge News](https://www.rechargenews.com/markets-and-finance/as-wind-theft-disputes-intensify-who-will-foot-the-bill-for-wake-losses-/2-1-1836577)
+
 
 ## Open-Source Tools
 * **2020 – present** 55 + open-access datasets/software on Zenodo (25 000 views, 5 800 downloads)  
