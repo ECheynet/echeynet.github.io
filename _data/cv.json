@@ -2,11 +2,9 @@
   "basics": {
     "name": "Etienne Cheynet",
     "email": "etienne.cheynet@uib.no",
-    "phone": "",
     "website": "https://sites.google.com/view/etiennecheynet",
     "summary": "Associate Professor at the University of Bergen specialising in wind engineering, offshore wind energy, and atmospheric turbulence.",
     "location": {
-      "address": "",
       "postalCode": "5007",
       "city": "Bergen",
       "countryCode": "NO",
@@ -29,7 +27,7 @@
       "position": "Associate Professor",
       "company": "University of Bergen",
       "startDate": "2022",
-      "summary": "Leads innovation in wind engineering and energy, supervises students, and redesigns courses ENERGI230/321/322."
+      "summary": "Leads innovation in wind engineering and energy, supervises students, and redesigned ENERGI230, ENERGI321, ENERGI322."
     },
     {
       "position": "Post‑doctoral Researcher",
@@ -94,6 +92,32 @@
       "reference": "University of Bergen – Joachim.Reuder@uib.no"
     }
   ],
+  "teaching": [
+    {
+      "course": "ENERGI230 Energy and Environment",
+      "institution": "University of Bergen",
+      "date": "2023–present",
+      "role": "Course Responsible"
+    },
+    {
+      "course": "ENERGI321 Offshore Wind Energy – Part 1",
+      "institution": "University of Bergen",
+      "date": "2023–present",
+      "role": "Course Responsible"
+    },
+    {
+      "course": "ENERGI322 Offshore Wind Energy – Part 2",
+      "institution": "University of Bergen",
+      "date": "2023–present",
+      "role": "Course Responsible"
+    },
+    {
+      "course": "SDG310 Interdisciplinary Approaches to Sustainability",
+      "institution": "University of Bergen",
+      "date": "2022–present",
+      "role": "Lecturer"
+    }
+  ],
   "publications": [
     {
       "name": "Enhancing Probabilistic Wind Speed Forecasting by Integrating Self-Adaptive Bayesian Wavelet Denoising with Deep Gaussian Process Regression Under Uncertainties",
@@ -103,21 +127,21 @@
       "summary": ""
     },
     {
-      "name": "SAMURAI-S: Sonic Anemometer on a MUlti-Rotor drone for Atmospheric turbulence Investigation in a Sling load configuration",
+      "name": "{SAMURAI-S: Sonic Anemometer on a MUlti-Rotor drone for Atmospheric turbulence Investigation in a Sling load configuration}",
       "publisher": "Atmospheric Measurement Techniques",
       "releaseDate": "2025",
       "website": "",
       "summary": ""
     },
     {
-      "name": "Surface pressure measurement system for investigating bridge aerodynamics",
+      "name": "{Surface pressure measurement system for investigating bridge aerodynamics}",
       "publisher": "Measurement",
       "releaseDate": "2025",
       "website": "",
       "summary": ""
     },
     {
-      "name": "Tall wind profile validation of ERA5, NORA3, and NEWA datasets using lidar observations",
+      "name": "{Tall wind profile validation of ERA5, NORA3, and NEWA datasets using lidar observations}",
       "publisher": "Wind Energy Science",
       "releaseDate": "2025",
       "website": "",
@@ -131,28 +155,28 @@
       "summary": ""
     },
     {
-      "name": "Observation of Kelvin--Helmholtz billows in the marine atmospheric boundary layer by a ship-borne Doppler wind lidar",
+      "name": "{Observation of Kelvin--Helmholtz billows in the marine atmospheric boundary layer by a ship-borne Doppler wind lidar}",
       "publisher": "Scientific Reports",
       "releaseDate": "2025",
       "website": "",
       "summary": ""
     },
     {
-      "name": "Metocean conditions at two Norwegian sites for development of offshore wind farms",
+      "name": "{Metocean conditions at two Norwegian sites for development of offshore wind farms}",
       "publisher": "Renewable Energy",
       "releaseDate": "2024",
       "website": "",
       "summary": ""
     },
     {
-      "name": "Gone with the wind? Wind farm-induced wakes and regulatory gaps",
+      "name": "{Gone with the wind? Wind farm-induced wakes and regulatory gaps}",
       "publisher": "Marine Policy",
       "releaseDate": "2024",
       "website": "",
       "summary": ""
     },
     {
-      "name": "Experimental Characterization of Propeller-Induced Flow (PIF) below a Multi-Rotor UAV",
+      "name": "{Experimental Characterization of Propeller-Induced Flow (PIF) below a Multi-Rotor UAV}",
       "publisher": "Atmosphere",
       "releaseDate": "2024",
       "website": "",
@@ -187,39 +211,123 @@
       "summary": ""
     },
     {
-      "name": "The {COTUR",
+      "name": "The {COTUR} project: Remote sensing of offshore turbulence for wind energy application",
       "publisher": "Atmospheric Measurement Techniques",
       "releaseDate": "2021",
       "website": "https://doi.org/10.5194/amt-14-6137-2021",
       "summary": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "ENERGI230 Energy and Environment",
-      "institution": "University of Bergen",
-      "date": "2023‑present",
-      "role": "Course Responsible"
     },
     {
-      "course": "ENERGI321 Offshore Wind Energy – Part 1",
-      "institution": "University of Bergen",
-      "date": "2023‑present",
-      "role": "Course Responsible"
+      "name": "The influence of terrain on the mean wind flow characteristics in a fjord",
+      "publisher": "Journal of Wind Engineering and Industrial Aerodynamics",
+      "releaseDate": "2020",
+      "website": "",
+      "summary": ""
     },
     {
-      "course": "SDG310 Interdisciplinary Approaches to Sustainability",
-      "institution": "University of Bergen",
-      "date": "2022‑present",
-      "role": "Lecturer"
-    }
-  ],
-  "portfolio": [
+      "name": "{Potential and challenges of wind measurements using met-masts in complex topography for bridge design: Part I--Integral flow characteristics}",
+      "publisher": "Journal of Wind Engineering and Industrial Aerodynamics",
+      "releaseDate": "2021",
+      "website": "",
+      "summary": ""
+    },
     {
-      "name": "COTUR II Lidar Campaign",
-      "category": "Research",
-      "description": "Full‑scale lidar turbulence measurements in Norwegian fjords.",
-      "url": "https://windengineeringuis.github.io/"
+      "name": "{Potential and challenges of wind measurements using met-masts in complex topography for bridge design: Part II--Spectral flow characteristics}",
+      "publisher": "Journal of Wind Engineering and Industrial Aerodynamics",
+      "releaseDate": "2021",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Observations of bridge stay cable vibrations in dry and wet conditions: A case study",
+      "publisher": "Journal of Sound and Vibration",
+      "releaseDate": "2021",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Flow distortion recorded by sonic anemometers on a long-span bridge: Towards a better modelling of the dynamic wind load in full-scale",
+      "publisher": "Journal of Sound and Vibration",
+      "releaseDate": "2019",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Wind coherence measurement by a single pulsed {D}oppler wind lidar",
+      "publisher": "Energy Procedia",
+      "releaseDate": "2016",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Assessment of wind conditions at a fjord inlet by complementary use of sonic anemometers and lidars",
+      "publisher": "Energy Procedia",
+      "releaseDate": "2015",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Buffeting response of a suspension bridge in complex terrain",
+      "publisher": "Engineering Structures",
+      "releaseDate": "2016",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Application of short-range dual-{D}oppler lidars to evaluate the coherence of turbulence",
+      "publisher": "Experiments in Fluids",
+      "releaseDate": "2016",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Assessing the potential of a commercial pulsed lidar for wind characterisation at a bridge site",
+      "publisher": "Journal of Wind Engineering and Industrial Aerodynamics",
+      "releaseDate": "2017",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Measurements of Surface-Layer Turbulence in a Wide Norwegian Fjord Using Synchronized Long-Range {D}oppler Wind Lidars",
+      "publisher": "Remote Sensing",
+      "releaseDate": "2017",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Damping estimation of large wind-sensitive structures",
+      "publisher": "Procedia engineering",
+      "releaseDate": "2017",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Full-scale observation of the flow downstream of a suspension bridge deck",
+      "publisher": "Journal of Wind Engineering and Industrial Aerodynamics",
+      "releaseDate": "2017",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Spectral characteristics of surface-layer turbulence in the {North Sea}",
+      "publisher": "Energy Procedia",
+      "releaseDate": "2017",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Coupled aerodynamic and hydrodynamic response of a long span bridge suspended from floating towers",
+      "publisher": "Journal of Wind Engineering and Industrial Aerodynamics",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Velocity spectra and coherence estimates in the marine atmospheric boundary layer",
+      "publisher": "Boundary-layer meteorology",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": ""
     }
   ]
 }
