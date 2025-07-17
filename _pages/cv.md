@@ -156,9 +156,9 @@ My research focuses on atmospheric turbulence, wind engineering, and experimenta
 I have **67 verified peer reviews** on Web of Science and have reviewed for *Scientific Data*, *Scientific Reports*, *Engineering Structures*, *Remote Sensing*, *Journal of Bridge Engineering*, *Boundary-Layer Meteorology*, *JWIND*, *ACP*, *WES*, and others.  
 
 # Scientific Projects and Grants
-* **2025 – 2028** ⭐ **Oversea Visiting Professor Talent Program** (Dalian UT, China) – 150 kNOK. *Role*: Visiting professor; joint research & teaching on offshore wind.  
-* **2024 – 2028** ⭐ **Akademiavtale – Machine Wind** (7 mNOK). *Role*: Co-designer & co-PI; turbulence integration in aerodynamic ML models.  
-* **2024 – 2028** ⭐ **Horizon Europe – NEXTgenT** (37 mNOK). *Role*: Scientific contributor; LOWT methods integrated.  
+* **2025 – 2028**  **Oversea Visiting Professor Talent Program** (Dalian UT, China) – 150 kNOK. *Role*: Visiting professor; joint research & teaching on offshore wind.  
+* **2024 – 2028**  **Akademiavtale – Machine Wind** (7 mNOK). *Role*: Co-designer & co-PI; turbulence integration in aerodynamic ML models.  
+* **2024 – 2028**  **Horizon Europe – NEXTgenT** (37 mNOK). *Role*: Scientific contributor; LOWT methods integrated.  
 * **2023 – 2026** **BEL-Float** (19 mNOK). *Role*: Norwegian doctoral co-supervisor.  
 * **2022 – 2027** **NFR FRIPRO – LOWT** (12 mNOK). *Role*: Co-designer, formulated research directions.  
 * **2021 – 2022** **Equinor–UiB COTUR II** (900 kNOK). *Role*: Principal scientific expert & project lead.  
